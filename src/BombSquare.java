@@ -49,7 +49,6 @@ public class BombSquare extends GameSquare
                 }
             }
         }
-        System.out.println(count);
         return count;
     }
 
